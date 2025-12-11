@@ -9,7 +9,7 @@ export const PARTY_INFO = {
   host: "The Host",
   date: "2025年12月21日",
   weekday: "Sunday",
-  time: "18:00 - Late",
+  time: "14:00 - Late",
   locationName: "润达圆庭 D栋",
   fullAddress: "深圳市龙华区润达圆庭D栋18楼A1805",
   mapQuery: "深圳市龙华区润达圆庭"
